@@ -265,6 +265,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Million](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
 * [Whatsup](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
 * [Remult](https://github.com/remult/remult) - A CRUD framework for full-stack TypeScript.
+* [Farm.js](https://github.com/farming-labs/farm.js) - A full-stack React framework with streaming SSR, Server Actions, typed file-based routing and first-party product integrations.
 
 ## Node-Powered CMS Frameworks
 
